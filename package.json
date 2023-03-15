@@ -1,0 +1,20 @@
+{
+  "name": "aws_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junaidhkn/aws_lambda_restAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junaidhkn/aws_lambda_restAPI/issues"
+  },
+  "homepage": "https://github.com/Junaidhkn/aws_lambda_restAPI#readme"
+}
